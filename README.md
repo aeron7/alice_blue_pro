@@ -6,4 +6,5 @@ Samples of AliceBlue Ant API Sample Codes for Live Algo Trading using [Krishna's
 
 ## AlgoTrading Using Python and Alice Blue API - Complete Series
 [Article 1: How to activate the API in Alice Blue for Automated Trading](https://unofficed.com/how-to-activate-the-api-in-alice-blue-for-automated-trading/)
+
 [Article 2: How to Stream Live Trading data using Python and AliceBlue ANT API](https://unofficed.com/alice-blue/aliceblue-live-data/)
