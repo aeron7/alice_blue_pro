@@ -29,7 +29,7 @@ Samples of AliceBlue Ant API Sample Codes for Live Algo Trading using [Krishna's
 [Github](https://github.com/aeron7/alice_blue_pro/blob/main/AliceBlue_Sample_Program_6_Coding_and_Plotting_Exponential_Moving_Average_Indicator_of_Infosys_Using_Python_By_Unofficed.ipynb) |
 [Google Collab](https://colab.research.google.com/drive/1JWmgABXvBK6dWWhpUcEQconw9DI2LV4e?usp=sharing) Program 6: Coding and Plotting Exponential Moving Average Indicator of Infosys Using Python
 
-#### Bollinger Band
+#### SMA/EMA Crossover
 
 [Github](https://github.com/aeron7/alice_blue_pro/blob/main/AliceBlue_Sample_Program_7_How_to_plot_Moving_Average_Crossover_Using_Python_in_Indian_Stock_Market_By_Unofficed.ipynb) |
 [Google Collab](https://colab.research.google.com/drive/1mrEmMYkJ_eQgXIpu7xQkdymBB_TR7qsJ?usp=sharing) Program 7: How to plot Moving Average Crossover Using Python in Indian Stock Market 
