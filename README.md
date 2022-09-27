@@ -23,7 +23,7 @@ Samples of AliceBlue Ant API Sample Codes for Live Algo Trading using [Krishna's
 
 #### Simple Moving Average
 
-[Github](https://github.com/aeron7/aliceblue-python/blob/master/AliceBlue_Sample_Program_5_Coding_and_Plotting_Simple_Moving_Average_Indicator_of_Infosys_Using_Python_By_Unofficed.ipynb) |
+[Github](https://github.com/aeron7/alice_blue_pro/blob/main/AliceBlue_Sample_Program_5_Coding_and_Plotting_Simple_Moving_Average_Indicator_of_Infosys_Using_Python_By_Unofficed.ipynb) |
 [Google Collab](https://colab.research.google.com/drive/1lSM_BJJc8Kk85LxXtJtmSqKhotvY2HWz?usp=sharing) Program 5: Coding and Plotting Simple Moving Average Indicator of Infosys Using Python
 
 #### Exponential Moving Average
