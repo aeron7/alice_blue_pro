@@ -1,5 +1,10 @@
-## Alice Blue API Sample Codes and Unofficial Functions
-Samples of AliceBlue Ant API Sample Codes for Live Algo Trading using [Krishna's Python Wrapper](https://github.com/krishnavelu/alice_blue/issues). 
+## Alice Blue API Unofficial Functions
+
+This is unofficial extender library using [Krishna's Python Wrapper](https://github.com/krishnavelu/alice_blue/) for trading in Aliceblue(https://www.unofficed.com/go/aliceblue)
+
+## Alice Blue API Sample Codes
+
+Samples of AliceBlue Ant API Sample Codes for Live Algo Trading using [Krishna's Python Wrapper](https://github.com/krishnavelu/alice_blue/). 
 
 [Unofficed](https://www.unofficed.com/) is strategic partner of Alice Blue
 
