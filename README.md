@@ -1,6 +1,6 @@
 ## Alice Blue API Unofficial Functions
 
-This is unofficial extender library using [Krishna's Python Wrapper](https://github.com/krishnavelu/alice_blue/) for trading in Aliceblue(https://www.unofficed.com/go/aliceblue)
+This is unofficial extender library using [Krishna's Python Wrapper](https://github.com/krishnavelu/alice_blue/) for trading in [Aliceblue](https://www.unofficed.com/go/aliceblue) made for the community of [Unofficed](https://www.unofficed.com)
 
 ## Alice Blue API Sample Codes
 
