@@ -1,3 +1,5 @@
+Deprecated: [Unofficed](https://www.unofficed.com/) is no longer a partner of Aliceblue. We will not provide any support, and no further updates or code maintenance will be done.
+
 ## Alice Blue API Unofficial Functions
 
 This is unofficial extender library using [Krishna's Python Wrapper](https://github.com/krishnavelu/alice_blue/) for trading in [Aliceblue](https://www.unofficed.com/go/aliceblue) made for the community of [Unofficed](https://www.unofficed.com)
